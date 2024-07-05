@@ -16,6 +16,11 @@ body {
     position: absolute;
     margin-right: 150px;
 }
+#yeButton {
+    position: absolute;
+    margin-left: 150px;
+    margin-right: 150px;
+}
 
 .header_text {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
